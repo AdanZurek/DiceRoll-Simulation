@@ -1,3 +1,3 @@
 # DiceRoll-Simulation
 
-Enjoy the project
+Enjoy project
